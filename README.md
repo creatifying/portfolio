@@ -5,7 +5,7 @@
 
 
 ## Portfolio using HTML, Tailwind CSS, JS
-![App Screenshot](https://i.ibb.co/QHCm49F/image.png)
+![App Screenshot](https://i.ibb.co/23sQPtz/image.png)
 
 
 
@@ -53,14 +53,14 @@ you can run run index.html and you're good to go
 
 
 
-![App Screenshot](https://i.ibb.co/ctFbS4y/image.png)
+![App Screenshot](https://i.ibb.co/rHTxQTk/image.png)
 
-![App Screenshot](https://i.ibb.co/LRdBq23/image.png)
+![App Screenshot](https://i.ibb.co/q0NnBB7/image.png)
 
-![App Screenshot](https://i.ibb.co/g6PrWNJ/image.png)
+![App Screenshot](https://i.ibb.co/Y8BxrB5/image.png)
 
 ## Fully Responsive 
-![App Screenshot](https://i.ibb.co/TPJX8zS/image.png)
+![App Screenshot](https://i.ibb.co/fdqVbdV/image.png)
 
 
 
