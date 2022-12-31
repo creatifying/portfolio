@@ -1,14 +1,36 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
-/* Your custom styles go here */
-
-h1 {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
-}
-
-body {
-    font-family: 'Poppins', sans-serif;
-}
+    @import 'tailwindcss/base';
+    @import 'tailwindcss/components';
+    @import 'tailwindcss/utilities';
+    /* Your custom styles go here */
+    
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: bold;
+    }
+    
+    p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: bold;
+    }
+    
+    @media (max-width: 640px) {
+        .flex {
+            flex-direction: inline;
+        }
+        .w-1/3 {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 639px) {
+        body {
+            width: 110%;
+        }
+    }
